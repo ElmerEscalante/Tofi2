@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tofi</string>
+    <string name="title_inicio">Catalogo</string>
+    <string name="title_buscar">Buscar</string>
+    <string name="title_actividades">Actividades de historia</string>
+    <string name="title_biblioteca">Biblioteca</string>
+    <string name="title_perfil">Perfil</string>
+
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="prompt_user">User</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="email">Correo electronico</string>
+    <string name="registrarse">Registrarse</string>
+
+    <string name="all">TODO</string>
+    <string name="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio quas illo eaque maiores reprehenderit, molestiae aliquid reiciendis natus.</string>
+    <string name="subtitle">Lorem ipsum dolor sit consectur.</string>
+</resources>
